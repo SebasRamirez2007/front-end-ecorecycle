@@ -42,7 +42,7 @@ export default function OffCanvas({user = {nombre: 'Recycler'}}) {
                         <i className="fa-solid fa-circle-info fa-2x"></i> Contacto
                     </a>
 
-                    <a href={`https://docs.google.com/document/d/17AJqxgfYqc_hxmgRNSCoOL6l0IauXouX/edit`} target="_blank" rel="noopener noreferrer" className="nav-link">
+                    <a href={`https://docs.google.com/document/d/1fH3KYqrFcjSr8qnOGH8DEXXb1__U_L2I/edit?usp=sharing&ouid=102632994935987103211&rtpof=true&sd=true`} target="_blank" rel="noopener noreferrer" className="nav-link">
                         <i className="fa-regular fa-envelope fa-2x"></i> Acerca de
                     </a>
 
